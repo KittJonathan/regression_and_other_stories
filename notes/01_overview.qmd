@@ -50,8 +50,7 @@ print(M1)
 
 - Estimating the effect of gun laws, and the difficulty of inference using regression with a large number of predictors
 
-# 1.4 Challenges in building, understanding, and interpreting
-regressions
+# 1.4 Challenges in building, understanding, and interpreting regressions
 
 - Regression to estimate a relationship of interest
 
