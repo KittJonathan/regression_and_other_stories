@@ -55,3 +55,17 @@ print(M1)
 - Regression to estimate a relationship of interest
 
 - Regression to adjust for differences between treatment and control groups
+
+- Interpreting coefficients in a predictive model
+
+- Building, interpreting and checking regression models
+
+# 1.5 Classical and Bayesian inference
+
+1\) What *information* is being used in the estimation process?
+
+2\) What *assumptions* are being made?
+
+3\) How are estimates and predictions *interpreted*?
+
+# 1.6 Computing least squares and Bayesian regression
